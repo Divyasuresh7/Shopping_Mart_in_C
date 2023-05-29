@@ -1,6 +1,7 @@
 # Shopping_Mart_in_C PROJECT TITLE: "FARM FRESH" SHOPPING APPLICATION
 
 How does the code work?
+
 The program takes care of the billing function for farm fresh,a retail store that sells
 vegetables,fruits and dairy products.this program allows the user to enter his name and shows a menu 
 to either buy or exit in case of buy selection,the user has to choose the category of vegetables,fruits,
