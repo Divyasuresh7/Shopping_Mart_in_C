@@ -33,5 +33,3 @@ print_dairy();
 cartf();
 cartd();
 cartv();
-
-*/
